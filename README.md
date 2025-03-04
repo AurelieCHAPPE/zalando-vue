@@ -1,6 +1,7 @@
-# first-vue-js
+# Reproduction simplifiée d'une page produit du site avec Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
+Ce projet consiste à recréer la page produit d'un site sous Vue.js en abordant plusieurs notions de cours : la transmission d'une information à un composant, le déclenchement d'une action au "clic", les valeurs réactives, l'émission d'un évènement, l'affichage conditionnel...
 
 ## Recommended IDE Setup
 
