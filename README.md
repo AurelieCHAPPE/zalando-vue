@@ -1,7 +1,7 @@
 # Reproduction simplifiée d'une page produit du site avec Vue.js
 
 ## Description
-Ce projet consiste à recréer la page produit d'un site sous Vue.js en abordant plusieurs notions de cours : la transmission d'une information à un composant, le déclenchement d'une action au "clic", les valeurs réactives, l'émission d'un évènement, l'affichage conditionnel...
+Ce projet consiste à recréer la page produit d'un site sous Vue.js en abordant diverses notions, telles que la transmission d'informations entre composants, l'interaction au clic, l'utilisation des valeurs réactives, l'émission d'événements et l'affichage conditionnel.
 
 ## Recommended IDE Setup
 
